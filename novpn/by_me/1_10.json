@@ -1,0 +1,986 @@
+{
+    "cookies": [
+        {
+            "name": "SNID",
+            "value": "APx-0P0vU1LOk31oIZPW12HAJ0KaH5BGRm-sQuKkFx5rJVenK3sJFaX4gxoCEelpCCjKx0_lZs5fOSaXb8uj",
+            "domain": ".google.co.in",
+            "path": "/verify",
+            "expires": 1614193220.48937,
+            "size": 88,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "1P_JAR",
+            "value": "2020-08-25-19",
+            "domain": ".google.co.in",
+            "path": "/",
+            "expires": 1600974020.812035,
+            "size": 19,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "NID",
+            "value": "204=d8xDfu9y2jlhE5-enb93PDAMhSSY0xtH_pccitTERJcH91eUayumxr0LrqeBQP-sD1Am0TEXpbz25BzRzU2vfVpcwK9Co2vNxOVsYc-sxcAS3xAJWs32Dr-LEgaZd8JwYM3pX6vesXpkEut_Fzf8jSLDB7m3z1aQyrZ-KTNUDr4",
+            "domain": ".google.co.in",
+            "path": "/",
+            "expires": 1614193220.489304,
+            "size": 178,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "SNID",
+            "value": "APx-0P1LNIgxMsGtcDyeW5TP0bvu5aXlUjGh_X55Dn9KYr6V07Jwo2opfN2bz5MTAW_PclED88qdW9l2Dmp3nA",
+            "domain": ".google.com",
+            "path": "/verify",
+            "expires": 1614193220.620101,
+            "size": 90,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "1P_JAR",
+            "value": "2020-08-25-19",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1600974020.857761,
+            "size": 19,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "NID",
+            "value": "204=P148SrSgFjFTSekaTg_u_Zym47HxWhPjVDZL5yiBbiUQmrx1Ovp0A1ost5WsySm_wUpf44BUkTn4Vp_IdB1aKMmJieAiMnLWlh3kP8vR4IHILenfOv5xGJwGNJZ4pXydGw5sqAosE5JrnJdSsaW6khAeEw84FiK6FRPrejqSYhs",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1614193220.620012,
+            "size": 178,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "WMF-Last-Access",
+            "value": "25-Aug-2020",
+            "domain": "www.wikipedia.org",
+            "path": "/",
+            "expires": 1601153767.584606,
+            "size": 26,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "WMF-Last-Access-Global",
+            "value": "25-Aug-2020",
+            "domain": ".wikipedia.org",
+            "path": "/",
+            "expires": 1601153767.58468,
+            "size": 33,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "GeoIP",
+            "value": "US:TX:Arlington:32.72:-97.14:v4",
+            "domain": ".wikipedia.org",
+            "path": "/",
+            "expires": -1,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "B",
+            "value": "f30h1qpfkanu4&b=3&s=3p",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1629939622.120623,
+            "size": 23,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "GUC",
+            "value": "AQEBAQFfRrFfT0IedwSN",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1629939622.120636,
+            "size": 23,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "A1",
+            "value": "d=AQABBMRfRV8CEPrCwBL62BkYhTTgZtYhgvEFEgEBAQGxRl9PXwAAAAAA_SMAAAcIxF9FX9YhgvE&S=AQAAAqFvl9s8G4y23IxBu6a_Axg",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1629939622.120563,
+            "size": 109,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "A3",
+            "value": "d=AQABBMRfRV8CEPrCwBL62BkYhTTgZtYhgvEFEgEBAQGxRl9PXwAAAAAA_SMAAAcIxF9FX9YhgvE&S=AQAAAqFvl9s8G4y23IxBu6a_Axg",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1629939622.120591,
+            "size": 109,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "A1S",
+            "value": "d=AQABBMRfRV8CEPrCwBL62BkYhTTgZtYhgvEFEgEBAQGxRl9PXwAAAAAA_SMAAAcIxF9FX9YhgvE&S=AQAAAqFvl9s8G4y23IxBu6a_Axg&j=US",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": -1,
+            "size": 115,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "yhcstamp",
+            "value": "54b511d8f7a0ddab641521168eda902a",
+            "domain": "www.yahoo.com",
+            "path": "/",
+            "expires": 1598986821,
+            "size": 40,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "FPNC",
+            "value": "MiDzh58BDWMQDj9NFcNXHyIyMGSPUzsBLj4-~B",
+            "domain": "www.yahoo.com",
+            "path": "/",
+            "expires": 1598468421.236671,
+            "size": 42,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "UID",
+            "value": "1A723a20251a13a597de37g1598382021",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1660590021.464969,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UIDR",
+            "value": "1598382021",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1660590021.465046,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "CP3",
+            "value": "1",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1600974021.465096,
+            "size": 4,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "IDSYNC",
+            "value": "16pp~1t9v",
+            "domain": ".analytics.yahoo.com",
+            "path": "/",
+            "expires": 1629918021,
+            "size": 15,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ab",
+            "value": "0001%3AFAPix8GROFI1dR0d%2BMxH67z6AlW3e7io",
+            "domain": ".agkn.com",
+            "path": "/",
+            "expires": 1629918021.76105,
+            "size": 43,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "APID",
+            "value": "UP39c0ca77-e705-11ea-82f2-0ad08b4f9db5",
+            "domain": ".advertising.com",
+            "path": "/",
+            "expires": 1630004421.863663,
+            "size": 42,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bkdc",
+            "value": "phx",
+            "domain": ".bluekai.com",
+            "path": "/",
+            "expires": 1613934021.869101,
+            "size": 7,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bkpa",
+            "value": "KJpEnXTLu5Dl+exN1nUwEncBiAdheXg11MEp0YhmBM/tiip0vzGhBMU15UUhXYiwieONM62wu+4POxeQnHW7",
+            "domain": ".bluekai.com",
+            "path": "/",
+            "expires": 1613934021.869155,
+            "size": 88,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bku",
+            "value": "1Dy991P4HPdxOwR7",
+            "domain": ".bluekai.com",
+            "path": "/",
+            "expires": 1613934021.86919,
+            "size": 19,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "demdex",
+            "value": "31636304775672830603415056831273554471",
+            "domain": ".demdex.net",
+            "path": "/",
+            "expires": 1613934022.329966,
+            "size": 44,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "dpm",
+            "value": "31636304775672830603415056831273554471",
+            "domain": ".dpm.demdex.net",
+            "path": "/",
+            "expires": 1613934022.330011,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "fr",
+            "value": "1WrhXJQVgue8i42ji..BfRV_D.xc.AAA.0.0.BfRV_D.AWUoRq8R",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1606158018.970226,
+            "size": 54,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "sb",
+            "value": "w19FX42iZS2O1IP8JMTfZuzK",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1661454019.970288,
+            "size": 26,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "datr",
+            "value": "w19FXxtshSUev3uX8vApkLDi",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1661454021.502356,
+            "size": 28,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "wd",
+            "value": "800x600",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1598986821,
+            "size": 9,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "ATN",
+            "value": "1.1598382021.4469814082418602887.AYLqfywfBLlhT2xi",
+            "domain": ".atdmt.com",
+            "path": "/",
+            "expires": 1661454021.717299,
+            "size": 52,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "test_cookie",
+            "value": "CheckForPermission",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1598382921.76751,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "session-id",
+            "value": "130-2250233-1870612",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": 1629918022.338549,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-id-time",
+            "value": "2082787201l",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": 1629918022.338517,
+            "size": 26,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "i18n-prefs",
+            "value": "USD",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": 1629918020.031057,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "skin",
+            "value": "noskin",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": -1,
+            "size": 10,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "ubid-main",
+            "value": "135-8672495-8592065",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": 1629918022.33845,
+            "size": 28,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "abid",
+            "value": "14ba137f-0c96-131c-fcf2-ea7ffac20830",
+            "domain": ".associates-amazon.com",
+            "path": "/",
+            "expires": 1600801220.944134,
+            "size": 40,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "session-token",
+            "value": "e+QYI3len3TumNTREBvQcgaAATGlSBdsBEBgLmP5NvGt06EdcH0ReYInL+RENl3pPcKKCQKntLwHI16d4Vss94wcbBVuva4lz0QlWPCPqgakSHMll/Sta/BYTEv+ykrAF2LRWyjK+i7nCkYlI4q6CFx+HTd7C6DZl665t0eHarov1guGpgNcMC3YJ9C+mVKvmzwxQ4m1sFIT2oFmjuscfh0fAbnGVyi2VkSl+gy4w6LBdZ/Mqmp5cyPX689PYAch",
+            "domain": ".amazon.com",
+            "path": "/",
+            "expires": 1629918021.303901,
+            "size": 269,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "csm-hit",
+            "value": "tb:s-ZQ0C4YN80CV9WZWMVSQR|1598382020238&t:1598382021889&adb:adblk_no",
+            "domain": "www.amazon.com",
+            "path": "/",
+            "expires": 1628622021,
+            "size": 75,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "UID",
+            "value": "15523a20251a13a597d5a9g1598382020",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1660590020.233116,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UIDR",
+            "value": "1598382020",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1660590020.233192,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.1714634872.1598382021",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1661454020,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.794405999.1598382021",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1598468420,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_fbp",
+            "value": "fb.1.1598382020832.384527373",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1606158022,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "fr",
+            "value": "0ZaJ4MbW0B7LoJn1N..BfRV_E...1.0.BfRV_E.",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1606158020.889746,
+            "size": 41,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "optout",
+            "value": "0",
+            "domain": "www.indiatimes.com",
+            "path": "/",
+            "expires": 1629918022,
+            "size": 7,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat",
+            "value": "1",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1598382081,
+            "size": 5,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "geo_continent",
+            "value": "\"NA\"",
+            "domain": "www.indiatimes.com",
+            "path": "/",
+            "expires": 1629918021,
+            "size": 17,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "geo_country",
+            "value": "\"US\"",
+            "domain": "www.indiatimes.com",
+            "path": "/",
+            "expires": 1629918021,
+            "size": 15,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUk1yCKTc7INjZN_SrdPQcGfPPnHJsPfK2vZI5StzMSlO2g645VF410-ohj2",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1661454022.187999,
+            "size": 67,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=23209a11647354c3-22b051b10cc3009c:T=1598382021:S=ALNI_MaHCB3uzLnoBZKSyh2H7TCDHZlMIA",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1661454021,
+            "size": 92,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "pbjs_debug",
+            "value": "null",
+            "domain": "www.indiatimes.com",
+            "path": "/",
+            "expires": -1,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "deviceid",
+            "value": "ro5k9gom2ma95dej2fn28sx5",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 3153582022.266815,
+            "size": 32,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lgc_deviceid",
+            "value": "ro5k9gom2ma95dej2fn28sx5",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 3153582022.266863,
+            "size": 36,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "bm_sz",
+            "value": "47CF38465A25BAE00D36A54C09A618D5~YAAQHTHHF4fC2iB0AQAAdB7+JgiEwLeoR1aZ8EBmyqkL/2259vqhhWCfb4nkbY2iDKCKqREdW7b7jZJ9MqQjRIsqT53ANRDvJNpBQTONTv0yYi0AIKdoxMHor2jSayfFvA7NpwFV0MfzRRyBERp+E986vPtS9qX8br4mLPjLtIPryWPCzzXEanBSntCqEG1oAKrJSg==",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1598396421.267939,
+            "size": 238,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_abck",
+            "value": "F3A31694F8146DCC1458EA60F534AE88~-1~YAAQHTHHF4jC2iB0AQAAdB7+JgTDB9W+clnaBB+k3EPJ1JEj8eUI+ZKEDzucGD7NzIMpX09uGg6a8DV7s0f1Xs6vf2ZOqfqUdRhqRdkeOmfFI55j5tFAW+lq5DVvmusF6qFBegYEAGF2iOrq2jxq3XuaBsyEyUM4fVT+goPw1rdCyQj1o2CNkYjQT7bHk/eNyD1DqbftTC4sPDfJgB3xQfYDKYUREYC3TTCXbOAIjOn/rUm0lBnFGbJXY+b8Mr1hjgzoGSoGs0wWS5i+a5GOAy8u/MDWvTvkYZbW+G/udVgSKPdofGbyQ6aP6H4FWw==~-1~-1~-1",
+            "domain": ".indiatimes.com",
+            "path": "/",
+            "expires": 1629918022.267957,
+            "size": 370,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "session-id",
+            "value": "262-7432457-6364335",
+            "domain": ".amazon.in",
+            "path": "/",
+            "expires": 1629918022.781117,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "i18n-prefs",
+            "value": "INR",
+            "domain": ".amazon.in",
+            "path": "/",
+            "expires": 1629918022.624967,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ubid-acbin",
+            "value": "257-2590353-9081851",
+            "domain": ".amazon.in",
+            "path": "/",
+            "expires": 1629918022.781049,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "csm-hit",
+            "value": "tb:s-K7PY69RHDBQXGRCASEQB|1598382020215&t:1598382022185&adb:adblk_no",
+            "domain": "www.amazon.in",
+            "path": "/",
+            "expires": 1628622022,
+            "size": 75,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-token",
+            "value": "\"phyT9nyANjkhNfsmQIRRT37WjXsVGn3HwObs/higEU51kS6nDsXQTFz2UwcODup0qbCJAoHhsltmXaSg5rwAQCXCoSAgoiGnMUHExY6GnF5Vem22QRhMJ8caFhiN4ccPDJoLdpv0ddacaofeHkme5CzdU1B0219qBQxM5ljIa64hsYQMoffdM9FW+Q/p1uAzUVLiJ15/Kxvpen9kmm3WQm27KBsga7wmTTjBN4rtGsf9xQhQAlxOqw==\"",
+            "domain": ".amazon.in",
+            "path": "/",
+            "expires": 1629918022.624948,
+            "size": 263,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-id-time",
+            "value": "2082758401l",
+            "domain": ".amazon.in",
+            "path": "/",
+            "expires": 1629918022.781093,
+            "size": 26,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "T",
+            "value": "TI159838202120800113447446035986183348856962806886664241964335645917",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": 1629918021.891315,
+            "size": 69,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "SN",
+            "value": "VIDF29D00EADF242EAA9DFA9FA8931588B.TOK63118DFF75D84D27B57872B153B6DA28.1598382021.LO",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": 1614160497.891438,
+            "size": 86,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "gpv_pn",
+            "value": "HomePage",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": 1598383822,
+            "size": 14,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "gpv_pn_t",
+            "value": "FLIPKART%3AHomePage",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": 1598383822,
+            "size": 27,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "demdex",
+            "value": "60031622445600123313055687318893785711",
+            "domain": ".demdex.net",
+            "path": "/",
+            "expires": 1613934023.183318,
+            "size": 44,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg",
+            "value": "1",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": -1,
+            "size": 42,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCV_17EB401053DAF4840A490D4C%40AdobeOrg",
+            "value": "-227196251%7CMCIDTS%7C18500%7CMCMID%7C14327962876461307964287287364675382777%7CMCAAMLH-1598986823%7C6%7CMCAAMB-1598986823%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1598389223s%7CNONE%7CMCAID%7CNONE",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": 1661454023,
+            "size": 261,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_cc",
+            "value": "true",
+            "domain": ".flipkart.com",
+            "path": "/",
+            "expires": -1,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        }
+    ]
+}
+{
+    "cookies": [
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1598383819.015943,
+            "size": 4,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "YSC",
+            "value": "sIj0fB1oLHA",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": -1,
+            "size": 14,
+            "httpOnly": true,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "Je6WSKdkh94",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1613934019.016004,
+            "size": 29,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUmv48yTLeP5sA5ZUdVlYIgKbDrRsgGznIB5Ji8PDBAXVYnF5qkyzJTK0OWv",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1661454022.565383,
+            "size": 67,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        }
+    ]
+}
