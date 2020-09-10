@@ -1,0 +1,11 @@
+{
+  "name": "py_node",
+  "version": "1.0.0",
+  "description": "py js trial code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "RedDevil2k3",
+  "license": "ISC"
+}
