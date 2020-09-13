@@ -1,3 +1,7 @@
+// use the CLI flag `--unhandled-rejections=strict`
+// ... 
+// '\x1b[0m' for normal color
+
 /*var fs = require('fs'),
     readline = require('readline');
 
@@ -21,16 +25,19 @@ rd.on('line', function(line) {
 
 
 var fs = require('fs');
-fs.readFile('sample.csv', function(err, data) {
+fs.readFile('sample2.csv', function(err, data) {
     if(err) throw err;
     var pups = data.toString().split("\n");
+    console.log('total number of urls in file: ',pups.length)
 
     var i;
+    var count = 0;
+    var page_count = 0
   
     const puppeteer = require('puppeteer');
-    const jsonexport = require('jsonexport');
+    //const jsonexport = require('jsonexport');
     //const fs = require('fs');
-    require('events').EventEmitter.defaultMaxListeners = 50;
+    require('events').EventEmitter.defaultMaxListeners = pups.length;
   
   
   
@@ -41,30 +48,46 @@ fs.readFile('sample.csv', function(err, data) {
         try {
   
           const urls = [pups[i]+""];
-          console.log(pups[i]);
+          //console.log(pups[i]);
   
   
           const browser = await puppeteer.launch();
   
-          console.log("1");
+          //console.log("puppeteer launched");
   
   
   
-          const reports = urls.map(async (url, k) => {
+            const reports = urls.map(async (url, k) => {
             const page = await browser.newPage();
-            console.log("new page");
-  
-  
-            await page.goto(url, {
-              waitUntil: 'networkidle2',
-              timeout: 0,
+
+            process.on("unhandledRejection", (reason, p) => {
+              console.error("Unhandled Rejection at: Promise", p, "reason:", reason);
+              browser.close();
             });
+            
+
+            page_count += 1
+            console.log("\x1b[33m%s\x1b[0m", "new page",url, page_count);
+  
+            try
+            {await page.goto(url, {
+              waitUntil: 'networkidle2',
+              timeout: 0
+            });
+            }
+            catch (error) {
+              console.log("\x1b[31m%s\x1b[0m","EARLY error while loading url",url,'\n',error);
+              browser.close();
+            }
+            
   
             // ********************** line 46 shows urls with cookies while retrieving data, only for testing purpose.
   
-            console.log(url);
+            console.log('on this url..',url);
             var content = await page._client.send('Network.getAllCookies');
-            console.log("2");
+            console.log("got cookies for", url);
+            
+
             //console.log(JSON.stringify(content, null, 4));
   
             //fs.writeFile('hmm.json', content);
@@ -87,13 +110,14 @@ fs.readFile('sample.csv', function(err, data) {
             //console.log(url);
             //console.log(fs.writeFileSync('humma.json', content));
             await page.close();
-            console.log("3");
+            count += 1;
+            console.log("\x1b[32m%s\x1b[0m", "page closed", url, count);
           });
   
   
           Promise.all(reports).then(() => {
             browser.close();
-            console.log("4");
+            console.log("\x1b[37m%s\x1b[0m", "all promises made check.\n");
             });
   
         } catch (error) {
