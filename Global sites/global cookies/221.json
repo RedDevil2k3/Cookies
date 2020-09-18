@@ -1,0 +1,3919 @@
+http://www.zendesk.com
+http://www.ltn.com.tw
+http://www.y2mate.com
+http://www.t.co
+http://www.ups.com
+http://www.ca.gov
+http://www.googlevideo.com
+http://www.ladbible.com
+http://www.google.co.th
+http://www.amazon.it
+http://www.t.me
+http://www.telewebion.com
+http://www.redd.it
+http://www.amazon.es
+http://www.behance.net
+http://www.zerodha.com
+http://www.webex.com
+http://www.shaparak.ir
+http://www.weather.com
+http://www.ebay.co.uk
+
+1
+1
+1
+1
+new page
+1
+1
+new page
+new page
+new page
+new page
+1
+1
+new page
+1
+1
+new page
+new page
+1
+new page
+new page
+1
+new page
+1
+1
+new page
+new page
+new page
+1
+1
+new page
+new page
+1
+new page
+http://www.t.co
+2
+{
+    "cookies": []
+}
+3
+4
+http://www.googlevideo.com
+2
+{
+    "cookies": [
+        {
+            "name": "SNID",
+            "value": "APx-0P3NzAShicjQpVMd_IBsCRJgNmlOchl1jv4CGZbPO6bRaHXNgUr0CJQq9k6amdJdlubRbTihINq9fbmpMQ",
+            "domain": ".google.com",
+            "path": "/verify",
+            "expires": 1616097207.823654,
+            "size": 90,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "1P_JAR",
+            "value": "2020-09-16-19",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1602878007.603499,
+            "size": 19,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "NID",
+            "value": "204=NSQSVtE4aoxs1zq4v-0pWQSPCm9h9ddEXbaAZ1OXw7dUjTzyjApUJMRI0d1oFoiv6wx4He1PJBpBL5NtkcPk9eF8kwV4tTsKN9JuHZsNtPpS0xXzx7IV4a35xkUJPSuadpy4xPPUkuXX2fsdD1xvwBaZnQxh5NFh648RpEMe5ak",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1616097207.823605,
+            "size": 178,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.y2mate.com
+2
+{
+    "cookies": [
+        {
+            "name": "__cfduid",
+            "value": "dd3e86bf4144dbdadce3b7feda0fcd45e1600286007",
+            "domain": ".y2mate.com",
+            "path": "/",
+            "expires": 1602878008.115714,
+            "size": 51,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "PHPSESSID",
+            "value": "mk17fmfluscilkvj3leskiavj6",
+            "domain": "www.y2mate.com",
+            "path": "/",
+            "expires": -1,
+            "size": 35,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.google.co.th
+2
+{
+    "cookies": [
+        {
+            "name": "SNID",
+            "value": "APx-0P1-9mDUFV6HYhkX3TeikNIVA-QGuCxGA5zr9skyHpB9lh2-_krFzXSfoZlEUGa8DQMO4Igs8aJyA9nqXA",
+            "domain": ".google.co.th",
+            "path": "/verify",
+            "expires": 1616097208.669992,
+            "size": 90,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "1P_JAR",
+            "value": "2020-09-16-19",
+            "domain": ".google.co.th",
+            "path": "/",
+            "expires": 1602878009.443493,
+            "size": 19,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "NID",
+            "value": "204=ZNnjcA7hz-ELcMn9h_LRq8JTiKTkubMUAQK0OURnG2YXP-6ALcWnF1Qwg4V_4sz2bcAIezyEgpNlxAVlg_w458IbdmRO-lM9xHqvowhgmiFSt21qLnAwvkSzCy4epBUW6O6sJ2COPZ2Uyu_zxvPL-I7cOZR3ktX-ehOcHx8LT4E",
+            "domain": ".google.co.th",
+            "path": "/",
+            "expires": 1616097208.669935,
+            "size": 178,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+1
+new page
+http://www.ca.gov
+2
+{
+    "cookies": [
+        {
+            "name": "1P_JAR",
+            "value": "2020-09-16-19",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1602878007.772816,
+            "size": 19,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "NID",
+            "value": "204=IzmfSmuNsAirca2aAEk1ALBeOX2LC2aAWNmDE8nmNEKraTcKc6CYVKd36ZlJvK34uZZQlFDBzFF0OxKk8bJQ-G22WGeApoONpYTFH5enrM0H_j9GMh6AuIu6bvfkRnwEdI-ofRqS8N6oMXW6rJxfpbZ-5Qhn-ajDACxdN-_PWoE",
+            "domain": ".google.com",
+            "path": "/",
+            "expires": 1616097207.772905,
+            "size": 178,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "RT",
+            "value": "\"z=1&dm=ca.gov&si=py3ox6ko5uq&ss=kf5syy34&sl=0&tt=0\"",
+            "domain": ".ca.gov",
+            "path": "/",
+            "expires": 1600890808,
+            "size": 54,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "nmstat",
+            "value": "1600286064808",
+            "domain": ".www.ca.gov",
+            "path": "/",
+            "expires": 1686686009,
+            "size": 19,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.1679796627.1600286009",
+            "domain": ".ca.gov",
+            "path": "/",
+            "expires": 1663358009,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.601270324.1600286009",
+            "domain": ".ca.gov",
+            "path": "/",
+            "expires": 1600372409,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat_UA-3419582-14",
+            "value": "1",
+            "domain": ".ca.gov",
+            "path": "/",
+            "expires": 1600286069,
+            "size": 19,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "tfw_exp",
+            "value": "0",
+            "domain": ".twitter.com",
+            "path": "/",
+            "expires": 1600372409.446897,
+            "size": 8,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AWSELB",
+            "value": "C3612D95142D045DE0A66E984D296F7903EA55F4EC8EC8CD858417F215382CD7095319316F5D1C53C3761DE704F29EA14284D1B31CDA6AD2AE855B34919AA73A007BFD6815",
+            "domain": "77584.global.siteimproveanalytics.io",
+            "path": "/",
+            "expires": -1,
+            "size": 144,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "AWSELBCORS",
+            "value": "C3612D95142D045DE0A66E984D296F7903EA55F4EC8EC8CD858417F215382CD7095319316F5D1C53C3761DE704F29EA14284D1B31CDA6AD2AE855B34919AA73A007BFD6815",
+            "domain": "77584.global.siteimproveanalytics.io",
+            "path": "/",
+            "expires": -1,
+            "size": 148,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ARRAffinity",
+            "value": "e198afec6581a1603d516688b9e05d55e216a7a6a28fad970baf7d024a095305",
+            "domain": ".stateentityprofile.ca.gov",
+            "path": "/",
+            "expires": -1,
+            "size": 75,
+            "httpOnly": true,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.ebay.co.uk
+2
+{
+    "cookies": [
+        {
+            "name": "ebay",
+            "value": "%5Esbf%3D%23%5E",
+            "domain": ".ebaystatic.com",
+            "path": "/",
+            "expires": -1,
+            "size": 19,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "ebay",
+            "value": "%5Esbf%3D%23%5E",
+            "domain": ".ebay.co.uk",
+            "path": "/",
+            "expires": -1,
+            "size": 19,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "s",
+            "value": "CgAD4ACBfY765OTg3YTlmMjgxNzQwYWQzOTdlYmIzYTdlZmZmYTgzY2SRxCK+",
+            "domain": ".ebay.co.uk",
+            "path": "/",
+            "expires": -1,
+            "size": 62,
+            "httpOnly": true,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "npii",
+            "value": "btguid/987a9f281740ad397ebb3a7efffa83cd6324d43a^cguid/987aa6f41740a9c526e2e57cfee52c646324d43a^",
+            "domain": ".ebay.co.uk",
+            "path": "/",
+            "expires": 1663358010.535723,
+            "size": 99,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "dp1",
+            "value": "bu1p/QEBfX0BAX19AQA**6324d43a^bl/US6324d43a^",
+            "domain": ".ebay.co.uk",
+            "path": "/",
+            "expires": 1663358010.535788,
+            "size": 47,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "nonsession",
+            "value": "BAQAAAXQoEGjGAAaAADMABWFDoLo3NjAxMwDKACBjJNQ6OTg3YTlmMjgxNzQwYWQzOTdlYmIzYTdlZmZmYTgzY2QAywABX2J0QjTAV8gA2ax6txzbcAb2RUfxqB/I2Q**",
+            "domain": ".ebay.co.uk",
+            "path": "/",
+            "expires": 1663358010.535832,
+            "size": 139,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "npii",
+            "value": "bcguid/987aa6f41740a9c526e2e57cfee52c646324d43a^",
+            "domain": ".ebay.com",
+            "path": "/",
+            "expires": 1663358010.639404,
+            "size": 52,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "thx_guid",
+            "value": "3af66a894a3a488294f87501696484e9",
+            "domain": "src.ebay-us.com",
+            "path": "/",
+            "expires": 1755806010.861502,
+            "size": 40,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.zerodha.com
+2
+{
+    "cookies": [
+        {
+            "name": "__cfduid",
+            "value": "d6a091bec071ec9b9a0ce7ef429bdfad71600286007",
+            "domain": ".zerodha.com",
+            "path": "/",
+            "expires": 1602878007.778193,
+            "size": 51,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.256174626.1600286012",
+            "domain": ".zerodha.com",
+            "path": "/",
+            "expires": 1663358012,
+            "size": 29,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.256308812.1600286012",
+            "domain": ".zerodha.com",
+            "path": "/",
+            "expires": 1600372412,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat",
+            "value": "1",
+            "domain": ".zerodha.com",
+            "path": "/",
+            "expires": 1600286072,
+            "size": 5,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ref",
+            "value": "zerodha",
+            "domain": "zerodha.com",
+            "path": "/",
+            "expires": 1600372412,
+            "size": 10,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+1
+http://www.t.me
+1
+2
+{
+    "cookies": [
+        {
+            "name": "stel_ssid",
+            "value": "f29351cc896af62315_5072729993857592451",
+            "domain": "t.me",
+            "path": "/",
+            "expires": 1600372408.004582,
+            "size": 47,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "stel_ssid",
+            "value": "35a5909cd0eef0f34d_10843212579933538330",
+            "domain": "telegram.org",
+            "path": "/",
+            "expires": 1600326008.723982,
+            "size": 48,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.1886138893.1600286011",
+            "domain": ".telegram.org",
+            "path": "/",
+            "expires": 1663358011,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.742362827.1600286011",
+            "domain": ".telegram.org",
+            "path": "/",
+            "expires": 1600372411,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat",
+            "value": "1",
+            "domain": ".telegram.org",
+            "path": "/",
+            "expires": 1600286071,
+            "size": 5,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.amazon.it
+2
+{
+    "cookies": [
+        {
+            "name": "session-id",
+            "value": "261-5203100-3225932",
+            "domain": ".amazon.it",
+            "path": "/",
+            "expires": 1631822012.337456,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "i18n-prefs",
+            "value": "EUR",
+            "domain": ".amazon.it",
+            "path": "/",
+            "expires": 1631822008.69781,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ubid-acbit",
+            "value": "260-9211565-3135903",
+            "domain": ".amazon.it",
+            "path": "/",
+            "expires": 1631822012.337383,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "csm-hit",
+            "value": "tb:s-FTM5WPVG0G15HRVK7Z46|1600286009222&t:1600286011747&adb:adblk_no",
+            "domain": "www.amazon.it",
+            "path": "/",
+            "expires": 1630526011,
+            "size": 75,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-token",
+            "value": "oFJhZOH2W2xvhloYq2GJxqcf/yqPdLWfY3nnFL4wjM42v7ZFHuGZHckbIQF8WdJPJZ1xxK3IluiQYtImDBVDSQQkOeuhb5sNdj6zQOdfOY/6R0vn3QKjWymrh8wDtBAvYfL3owKZPIECE5ozmgmmpjwADXArpUYxnkyceioIifz5N4rSeVjxd3ulkOD9pXhv",
+            "domain": ".amazon.it",
+            "path": "/",
+            "expires": 1631822011.791216,
+            "size": 205,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-id-time",
+            "value": "2082758401l",
+            "domain": ".amazon.it",
+            "path": "/",
+            "expires": 1631822012.337429,
+            "size": 26,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ad-privacy",
+            "value": "0",
+            "domain": ".amazon-adsystem.com",
+            "path": "/",
+            "expires": 1759348412.568675,
+            "size": 11,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+new page
+new page
+1
+new page
+http://www.zendesk.com
+2
+{
+    "cookies": [
+        {
+            "name": "taboola_session_id",
+            "value": "v2_99143a50ee1656ff5a92a2bdd227339b_693b409e-2e38-43b9-9275-b3c73448ad10-tuct65bf2ba_1600286010_1600286010_CNawjgYQ9YZHGOjV6sPJLiABKAEw4QE4kaQOQPzYD0ir0tkDUO8EWABgAGjx0oTc9OS3qcIB",
+            "domain": ".taboola.com",
+            "path": "/zendesk-sc/",
+            "expires": -1,
+            "size": 197,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "__cfduid",
+            "value": "d40f2c72decfb2f17d94ce12d24fe8e361600286006",
+            "domain": ".www.zendesk.com",
+            "path": "/",
+            "expires": 1602878006.10105,
+            "size": 51,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "__cfduid",
+            "value": "d094702d758fdf7b788918c17e3d0b1671600286007",
+            "domain": ".web-assets.zendesk.com",
+            "path": "/",
+            "expires": 1602878007.261048,
+            "size": 51,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "optimizelyEndUserId",
+            "value": "oeu1600286007467r0.7525080147419521",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1615838007,
+            "size": 54,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "flight",
+            "value": "%7B%22first_touch_timestamp%22%3A1600286007805%2C%22last_touch_timestamp%22%3A1600286007808%2C%22first_referrer%22%3A%22%22%2C%22last_referrer%22%3A%22%22%2C%22first_landing_page%22%3A%22https%3A%2F%2Fwww.zendesk.com%2F%22%2C%22last_landing_page%22%3A%22https%3A%2F%2Fwww.zendesk.com%2F%22%2C%22time_on_site%22%3A0%2C%22total_time_on_site%22%3A0%2C%22page_views%22%3A2%2C%22visits%22%3A1%2C%22trials%22%3A0%2C%22domain%22%3A%22none%22%2C%22seenOffer%22%3A%22ProactiveChat%22%2C%22seenOfferVersion%22%3A%221.0.4%22%7D",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1663358007,
+            "size": 522,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "connect.sid",
+            "value": "s%3A9UnsH5Ha0PybK8Q8FZi74bkdshfNGFjl.miSx46T6S2cB6fdTlGzH1H%2B%2B3IihYnsda8IuhCtqQBw",
+            "domain": "www.zendesk.com",
+            "path": "/",
+            "expires": -1,
+            "size": 95,
+            "httpOnly": true,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "ajs_user_id",
+            "value": "null",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822008,
+            "size": 15,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "ajs_group_id",
+            "value": "null",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822008,
+            "size": 16,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "ajs_anonymous_id",
+            "value": "%220737635a-2ebb-4df8-b3d3-8a126e96a67b%22",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822009,
+            "size": 58,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.640101176.1600286009",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1608062015,
+            "size": 31,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "MUID",
+            "value": "2BA83B50917569FF0133341790CB6858",
+            "domain": ".bing.com",
+            "path": "/",
+            "expires": 1633982010.43068,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "MR",
+            "value": "0",
+            "domain": ".bat.bing.com",
+            "path": "/",
+            "expires": 1600890810.430736,
+            "size": 3,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga_FBP7C61M6Z",
+            "value": "GS1.1.1600286009.1.0.1600286009.0",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1663358009,
+            "size": 47,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "6suuid",
+            "value": "54721cb8516c0000396d625f8302000029731700",
+            "domain": ".6sc.co",
+            "path": "/",
+            "expires": 1663358010.867363,
+            "size": 46,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ELOQUA",
+            "value": "GUID=D8A7FA25C4654AE9AD2BBAE7DD2FFCD2",
+            "domain": ".eloqua.com",
+            "path": "/",
+            "expires": 1634414010.785229,
+            "size": 43,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ELQSTATUS",
+            "value": "OK",
+            "domain": ".eloqua.com",
+            "path": "/",
+            "expires": 1634414010.785293,
+            "size": 11,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "__pdst",
+            "value": "84823da38bd449b1a9ebd44d922d1f09",
+            "domain": "www.zendesk.com",
+            "path": "/",
+            "expires": 1631822009,
+            "size": 38,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Strict",
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.1786039009.1600286010",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1663358009,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.530960704.1600286010",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1600372409,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_dc_gtm_UA-970836-4",
+            "value": "1",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1600286069,
+            "size": 20,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "t_gid",
+            "value": "693b409e-2e38-43b9-9275-b3c73448ad10-tuct65bf2ba",
+            "domain": ".taboola.com",
+            "path": "/",
+            "expires": 1631822015.790908,
+            "size": 53,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_uetsid",
+            "value": "4cd59e31199cb8a76fbca2c8d633e13f",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1600372410,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_uetvid",
+            "value": "bb61ebb23d1726801a31d5cbc5b83532",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1601690010,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_biz_uid",
+            "value": "3c6ffd6b5a0e4796a01d9f75d8cceca9",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822010,
+            "size": 40,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_biz_sid",
+            "value": "40ded8",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1600287810,
+            "size": 14,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_biz_nA",
+            "value": "2",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822010,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_BUID",
+            "value": "3c6ffd6b5a0e4796a01d9f75d8cceca9",
+            "domain": ".bizible.com",
+            "path": "/",
+            "expires": 1631822010.367898,
+            "size": 37,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_fbp",
+            "value": "fb.1.1600286010494.1680619913",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1608062011,
+            "size": 33,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_BUID",
+            "value": "7230cd8d0b8bc1c2b264f84ff8991ed0",
+            "domain": ".bizibly.com",
+            "path": "/",
+            "expires": 1631822010.49898,
+            "size": 37,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_an_uid",
+            "value": "0",
+            "domain": "www.zendesk.com",
+            "path": "/",
+            "expires": 1600890810,
+            "size": 8,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gd_visitor",
+            "value": "c5cacb3d-e3a8-4df6-8450-7e04eea3c993",
+            "domain": "www.zendesk.com",
+            "path": "/",
+            "expires": 1663358010,
+            "size": 47,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gd_session",
+            "value": "eb7af1f1-3a8f-473e-895b-c0c91f780806",
+            "domain": "www.zendesk.com",
+            "path": "/",
+            "expires": 1600300410,
+            "size": 47,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gd_svisitor",
+            "value": "54721cb8516c0000396d625f8302000029731700",
+            "domain": "www.zendesk.com",
+            "path": "/",
+            "expires": 1663358010,
+            "size": 52,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_biz_pendingA",
+            "value": "%5B%5D",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822010,
+            "size": 19,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_biz_ABTestA",
+            "value": "%5B-1436078949%5D",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822010,
+            "size": 29,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUlU17wCEaZtplt2E6bBg7ONEMmKUrKGDdSifIZdTXk2cTWDeu1EMpZS1wpd",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1663358010.755419,
+            "size": 67,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "fr",
+            "value": "0rx5bbIoyW2vdomI5..BfYm06...1.0.BfYm06.",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1608062010.755709,
+            "size": 41,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_biz_flagsA",
+            "value": "%7B%22Version%22%3A1%2C%22ViewThrough%22%3A%221%22%2C%22XDomain%22%3A%221%22%7D",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822010,
+            "size": 90,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "li_sugr",
+            "value": "f8401646-3d25-45b4-8dfb-7a2352cdd5d8",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1608062012.66853,
+            "size": 43,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lang",
+            "value": "v=2&lang=en-us",
+            "domain": ".ads.linkedin.com",
+            "path": "/",
+            "expires": -1,
+            "size": 18,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lidc",
+            "value": "\"b=OGST01:g=2148:u=1:i=1600286010:t=1600372410:s=AQGJTPnXDAD3bA1eSr4IeM3KT31RXkdn\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1600372411.016262,
+            "size": 86,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UserMatchHistory",
+            "value": "AQJPChriqRafdgAAAXSYerCEd00RAzKtGV4iuFkW2ELA2cEbu-7oMyfeONo-zMUMirthv1b1o3o",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1602878011.514474,
+            "size": 91,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lang",
+            "value": "v=2&lang=en-us",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": -1,
+            "size": 18,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bcookie",
+            "value": "\"v=2&fe55bcdd-d504-40a5-89fc-fdff64bb89d9\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1663399865.488746,
+            "size": 49,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bscookie",
+            "value": "\"v=1&20200916195332b39026ed-42f1-49a0-8037-0b3a50ddda4fAQFBo_4NiOdMGJyxh5jLM2NqNfvELswg\"",
+            "domain": ".www.linkedin.com",
+            "path": "/",
+            "expires": 1663399865.488779,
+            "size": 96,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lissc",
+            "value": "1",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1631822013.488805,
+            "size": 6,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AWSALB",
+            "value": "dnqVX1GAICD6Uqw+ksapEwBp/sBZLCk8Mc/AgK5247ozLo0uDmqHQAgUfLUc//y0q4v9dowKfxwkYbu+6Y2JriMffkWMNMnUTjKQsVCW+8kXXIAxJcoTCEbfc8Xg",
+            "domain": "widget-mediator.zopim.com",
+            "path": "/",
+            "expires": 1600890813.40216,
+            "size": 130,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "AWSALBCORS",
+            "value": "dnqVX1GAICD6Uqw+ksapEwBp/sBZLCk8Mc/AgK5247ozLo0uDmqHQAgUfLUc//y0q4v9dowKfxwkYbu+6Y2JriMffkWMNMnUTjKQsVCW+8kXXIAxJcoTCEbfc8Xg",
+            "domain": "widget-mediator.zopim.com",
+            "path": "/",
+            "expires": 1600890813.402281,
+            "size": 134,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "U",
+            "value": "e9db5357c40ab7d852aaf45073db797a",
+            "domain": ".adsymptotic.com",
+            "path": "/",
+            "expires": 1608062013.51422,
+            "size": 33,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "mc",
+            "value": "5f626d3d-74ccc-36194-4ae0b",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1634500413.592159,
+            "size": 28,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lidid",
+            "value": "64ac11da-c48c-4df2-83b5-883d8b27640f",
+            "domain": ".liadm.com",
+            "path": "/",
+            "expires": 1663358013.846315,
+            "size": 41,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "__zlcmid",
+            "value": "10DjRONirxewL2M",
+            "domain": ".zendesk.com",
+            "path": "/",
+            "expires": 1631822014,
+            "size": 23,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_vC/l9FU4wBDetsvIbWYeXQ==\"",
+            "domain": ".twitter.com",
+            "path": "/",
+            "expires": 1663358014.792849,
+            "size": 47,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "suid",
+            "value": "52BEBEB9D33445749CB06DCF484A468F",
+            "domain": ".simpli.fi",
+            "path": "/",
+            "expires": 1631908415.241234,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "suid_legacy",
+            "value": "52BEBEB9D33445749CB06DCF484A468F",
+            "domain": ".simpli.fi",
+            "path": "/",
+            "expires": 1631908415.241304,
+            "size": 43,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "everest_g_v2",
+            "value": "g_surferid~X2JtPwAAAEal0nGl",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": 1631822015.715465,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ev_sync_enc",
+            "value": "MjAyMDA5MTY_Mzo6MzA",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": 1631822015.805887,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.ups.com
+2
+{
+    "cookies": [
+        {
+            "name": "bm_sz",
+            "value": "F7FE6E2798599DDB458791C94A7FCC61~YAAQLNcbuOtFRX50AQAA2Z96mAl65mnw131t1ViW02mpyAlAESQW22L+xzDacbLx8pFlMdJt4jU1SzTbll/v4pMTgJaRIe0ke1aVSo7wJ48MrZ/GRwsfDf3iUFziTYLkU7YNo5/hJBqjsSGAnX7lL/1I2InLsl4Y4pKjFB83Qzk91cV9XlAUbGBhieZS",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1600300407.369369,
+            "size": 226,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ups_language_preference",
+            "value": "en_US",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1663358007.707581,
+            "size": 28,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "JSESSIONID",
+            "value": "1D93B3CCCC8DED9AEFAFF246365855DC",
+            "domain": "www.ups.com",
+            "path": "/",
+            "expires": -1,
+            "size": 42,
+            "httpOnly": true,
+            "secure": true,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "sharedsession",
+            "value": "89774c43-c391-4566-93d3-008bbf76b0b6:m",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": -1,
+            "size": 51,
+            "httpOnly": true,
+            "secure": true,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "at_check",
+            "value": "true",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": -1,
+            "size": 12,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "demdex",
+            "value": "56651902314102306991585471500580483405",
+            "domain": ".demdex.net",
+            "path": "/",
+            "expires": 1615838016.741078,
+            "size": 44,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCVS_036784BD57A8BB277F000101%40AdobeOrg",
+            "value": "1",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": -1,
+            "size": 42,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "mbox",
+            "value": "session#02c051fb8281402e88e0612a90e57d21#1600287869|PC#02c051fb8281402e88e0612a90e57d21.35_0#1663530811",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1663530811,
+            "size": 107,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "mboxEdgeCluster",
+            "value": "35",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1600287870,
+            "size": 17,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "mnbIClOeeNg",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1615838011.414067,
+            "size": 29,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "YSC",
+            "value": "7YARJrEvAIg",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": -1,
+            "size": 14,
+            "httpOnly": true,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "everest_g_v2",
+            "value": "g_surferid~X2JtPAAAAHzBorto",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": 1663358013.180348,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "everest_session_v2",
+            "value": "X2JtPAAAAHzBprto",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": -1,
+            "size": 34,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUnCOD0oUxKd9nmk5N622PARUXJjs6iZD9XqVW-g3FhdOxN4fYSJpzTke9Mb",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1663358012.461166,
+            "size": 67,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "dpm",
+            "value": "56651902314102306991585471500580483405",
+            "domain": ".dpm.demdex.net",
+            "path": "/",
+            "expires": 1615838016.741162,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "utag_main",
+            "value": "v_id:0174987aac96001ef9538d3bb5bb00079002507100590$_sn:1$_se:1$_ss:1$_st:1600287810600$ses_id:1600286010600%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:ups.com$_prevpage:ups%3Aus%3Aen%3Aglobal%3Bexp-1600289612482",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1631822012,
+            "size": 223,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "MUID",
+            "value": "332EB3474CC269850C64BC004D7C6873",
+            "domain": ".bing.com",
+            "path": "/",
+            "expires": 1633982012.527579,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "MR",
+            "value": "0",
+            "domain": ".c.bing.com",
+            "path": "/",
+            "expires": 1600890812.527623,
+            "size": 3,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "TDID",
+            "value": "e387f62e-4886-4290-b038-7c19a8a5bb31",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1631822013.011792,
+            "size": 40,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "s_nr",
+            "value": "1600286012849-New",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1602878012,
+            "size": 21,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_invisit",
+            "value": "true",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1600287812,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_vnum",
+            "value": "1601528400850%26vn%3D1",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1601528400,
+            "size": 28,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "dayssincevisit",
+            "value": "1600286012852",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1694894012,
+            "size": 27,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "dayssincevisit_s",
+            "value": "First%20Visit",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1600287812,
+            "size": 29,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_cc",
+            "value": "true",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": -1,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "u2",
+            "value": "8d52778b-10dd-4f10-be2b-1ac9455954004xp310",
+            "domain": ".serving-sys.com",
+            "path": "/",
+            "expires": 1608047580.959261,
+            "size": 44,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "um2",
+            "value": "1wB56651902314102306991585471500580483405_",
+            "domain": ".serving-sys.com",
+            "path": "/",
+            "expires": 1608047580.959289,
+            "size": 45,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.318828959.1600286013",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1608062013,
+            "size": 31,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "TDCPM",
+            "value": "CAESEgoDYWFtEgsIxofPlYeh7TgQBRgFIAEoAjILCMyv172doe04EAU4AQ..",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1631822013.011847,
+            "size": 65,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCV_036784BD57A8BB277F000101%40AdobeOrg",
+            "value": "-408604571%7CMCIDTS%7C18522%7CMCMID%7C56367806217176628311632461894783326345%7CMCAAMLH-1600890809%7C6%7CMCAAMB-1600890809%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1600293209s%7CNONE%7CMCSYNCSOP%7C411-18529%7CvVersion%7C4.6.0",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1663358013.105602,
+            "size": 289,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "trx",
+            "value": "4953352679427061365",
+            "domain": ".revjet.com",
+            "path": "/",
+            "expires": 1663358013.153813,
+            "size": 22,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_abck",
+            "value": "4E2902B794DD2544CBF8480572F3F786~-1~YAAQJNcbuKs0SpB0AQAAnbZ6mAQQ5jfvIzmmY1S/36S2QfQwsUNiDT/89gfdhHI+oKAoVjnuqs/gq0YLt06qKiYw31gCanY6HhzkCxjLZT/IddJiicYn2KzrW+lMOWvWrsE6AeXXhW8b9Af9gSy5KeEZxJIBKfZeX37zJvuKsudcQHZv1qpBmPR2JlOo2jNPnhgJGiP9RMsH740mMrb5zUtaLRHLTaAlAx5N06LpoguA4FahVJ9BofuehV3Qzs+8sURMqKEl4hKlcjMfOh184PIG3a8C6WJNTXKCRqwoJuxaqO1+uS4DpCepElANrY/QCGpaypY=~-1~-1~-1",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1631822013.173088,
+            "size": 378,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_fbp",
+            "value": "fb.1.1600286013215.1239387506",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1608062016,
+            "size": 33,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "aam_cms",
+            "value": "segments%3D15025641%7C18212350",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1610654013,
+            "size": 37,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "aam_uuid",
+            "value": "56651902314102306991585471500580483405",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1610654013,
+            "size": 46,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "bito",
+            "value": "AAGkgU6-xNoAABCo9x6p3Q",
+            "domain": ".bidr.io",
+            "path": "/",
+            "expires": 1634399613.984694,
+            "size": 26,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bitoIsSecure",
+            "value": "ok",
+            "domain": ".bidr.io",
+            "path": "/",
+            "expires": 1634399613.984763,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "khaos",
+            "value": "KF5SZ31Q-1D-F77B",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1631822014.107161,
+            "size": 21,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "audit",
+            "value": "1|03S09iWtPDh5ijH7eg8Rg+tMl3+iJ89zcrFoloJwHwaqfKHvIAJ5TiI2Su6WnRsWvMPQkS/XXIkwHTRO1/p4iM1d+xr7gW6vRTjahTvbHTF9AjfIjRY4MyCPRK6lffpa/Holl/cpHcOtAOTmjEas6/WQzJBJR0DUpRuCy0WrP/0=",
+            "domain": ".rubiconproject.com",
+            "path": "/",
+            "expires": 1631822014.107222,
+            "size": 179,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "fr",
+            "value": "0RCAY02gVj94lkgOl..BfYm09..F9i.1.0.BfYm09.",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1608062014.375443,
+            "size": 44,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "tuuid",
+            "value": "3856f2f6-fa59-469c-9d9d-26aa0b096d11",
+            "domain": ".company-target.com",
+            "path": "/",
+            "expires": 1663358014.434004,
+            "size": 41,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "tuuid_lu",
+            "value": "1600286014",
+            "domain": ".company-target.com",
+            "path": "/",
+            "expires": 1663358014.434176,
+            "size": 18,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ATN",
+            "value": "1.1600286014.12237158158550020063.AYIz3c48dcZaBSp1",
+            "domain": ".atdmt.com",
+            "path": "/",
+            "expires": 1663358014.598426,
+            "size": 53,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "i",
+            "value": "de5e94d5-c9b6-4d79-8914-93ea1f62cde1|1600286014",
+            "domain": ".openx.net",
+            "path": "/",
+            "expires": 1631822014.611409,
+            "size": 48,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "CMID",
+            "value": "X2JtPtHM4SwAADTIwXkAAABy",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1631822015.356175,
+            "size": 28,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "CMPS",
+            "value": "2362",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1608062015.356243,
+            "size": 8,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "KRTBCOOKIE_218",
+            "value": "22978-X2JtPAAAAHzBorto&KRTB&23194-X2JtPAAAAHzBorto&KRTB&23209-X2JtPAAAAHzBorto",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1608062015.016517,
+            "size": 92,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "PugT",
+            "value": "1600286014",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1602878015.016587,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "PUBMDCID",
+            "value": "1",
+            "domain": ".pubmatic.com",
+            "path": "/",
+            "expires": 1608062015.016619,
+            "size": 9,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "CMPRO",
+            "value": "458",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1608062015.356279,
+            "size": 8,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "CMST",
+            "value": "X2JtP19ibT8A",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1600372415.35631,
+            "size": 16,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "CMRUM3",
+            "value": "585f626d3f2760X2JtPAAAAHzBorto",
+            "domain": ".casalemedia.com",
+            "path": "/",
+            "expires": 1631822015.356335,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "audience",
+            "value": "4e5fe4ee-f856-11ea-bfaf-1d2974061901",
+            "domain": ".spotxchange.com",
+            "path": "/",
+            "expires": 1631826015.56467,
+            "size": 44,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "dextp",
+            "value": "771-1-1600286011942|903-1-1600286012069|20-1-1600286012173|1957-1-1600286012342|3462-1-1600286012525|70027-1-1600286012862|144230-1-1600286013084|144231-1-1600286013376|144232-1-1600286013798|144233-1-1600286014218|144234-1-1600286014417|144235-1-1600286014590|144236-1-1600286014925|144237-1-1600286015358|152416-1-1600286015534",
+            "domain": ".demdex.net",
+            "path": "/",
+            "expires": 1615838015,
+            "size": 334,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "inqState_10005649",
+            "value": "%7BVA%3A%5B%5D%2C_loy%3A1%2C_ssQ%3A%5B%222020-09-16T19%3A53%3A35.836Z%22%5D%2C_slq%3A%5B%5D%2C_cct%3A0%2C_sqc%3A0%2C_slc%3A0%2Ccfl%3A9223372036854776000%2Crn1A%3A1%2CLDM%3A%7Blh%3A%5B%7Bid%3A-1%2Ccg%3A%5B%5D%7D%5D%7D%2CCHM%3A%7B%7D%2Cfst%3A1600286015836%2Clst%3A1600286015836%2C_ist%3A%22ELIGIBLE%22%2C_sesT%3A0%7D",
+            "domain": "ups.inq.com",
+            "path": "/",
+            "expires": 1631822016,
+            "size": 331,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "inqSession_10005649",
+            "value": "%7B_svMs%3A-1%2C_aTyp%3A3%2Civp%3A%22string%20var%20default%22%2CEng%3A1%2CeS%3A0%2Cen%3A0%2Cus%3A0%2CvaS%3A%2218000619%22%2CvaUKS%3A%2218000724%22%2CvaDES%3A%2218000726%22%2CvaCAS%3A%2218000722%22%2CvaFRS%3A%2218000782%22%2CvaITS%3A%2218000781%22%2CvaNLS%3A%2218000777%22%2CvaESS%3A%2218000780%22%2CPrePr%3A0%2CvaPLS%3A%2218000779%22%2CaoID%3A17320888%2Cp2c2c%3A33001563%2Cp2c2D%3A33001556%2CoID%3A17364231%2CoAO%3A17449802%2CoVA%3A17393388%2CoVADE%3A17393389%2CoVAFR%3A17393390%2CoVACF%3A%22UPS-VA-AO-CAFR%22%2CoVAIT%3A17437025%2CoVANL%3A17437024%2CoVAES%3A17437026%2CoVAPL%3A17437027%2Cdct%3A24002770%2Cect%3A24002771%2Cmct%3A24002772%2CPPRV%3A0%2CmMS%3A0%2CCHM%3A%7Bpmor%3Afalse%7D%2C_ssID%3A%227423543901327552741%22%2Crd%3A%22%22%2Csest%3A%22%22%2C_sT%3A0%2Cltt%3A1600286015862%7D",
+            "domain": "ups.inq.com",
+            "path": "/",
+            "expires": 1631822016,
+            "size": 805,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "inqVital_10005649",
+            "value": "%7BINQ%3A%7BcustID%3A%22742354390132755274%22%7D%2Cv%3A3%2Cvcnt%3A16%2Cvtime%3A1600286015875%2C_acid%3A%22-1%22%2C_ss%3A%22unsold%22%2CCHM%3A%7Blpt%3A0%2ClastChat%3A%7B%7D%2ClastCallId%3A0%7D%2C_is%3A1600286015864%2C_iID%3A%227423543901327552741%22%2C_ig%3A%22CHAT%22%7D",
+            "domain": "ups.inq.com",
+            "path": "/",
+            "expires": 1631822016,
+            "size": 287,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "upsLiveChat_10005649",
+            "value": "%7BcMS%3A0%7D",
+            "domain": "ups.inq.com",
+            "path": "/",
+            "expires": 1600300416,
+            "size": 33,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UTID",
+            "value": "c4da1b572791410c97ccb30f1af7fe90",
+            "domain": ".undertone.com",
+            "path": "/",
+            "expires": 1631822016.435981,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UTID_ENC",
+            "value": "bnjqbpgqus660z6edonuoh768",
+            "domain": ".undertone.com",
+            "path": "/",
+            "expires": 1631822016.436043,
+            "size": 33,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_4c_",
+            "value": "jZNfb9owFMW%2Fix%2F6RMi9%2Fm8kNNGtD5u0VV2rviI7cdZoSRPFgQ4hvvsMJWEDJi0viZ2fz70%2Bx96Stxf%2FSmYoAaiWgFJwNSE%2F%2FSaQ2ZZ0Zb5%2FrcmMUHSeMaSJzA0m3Mg8scKzxOZSZ4LSIss8mZBfBy0NkgJyIcxuQtbloKEdZ9o7k0iPecIL5RLNHU1UbjQ4a8FLPmrEfpRGwamekL6v4pyG%2FRMVs%2FaouCX3X5%2B%2BL2%2FvFh%2Fvv8UCL33fhlmahtr3XZmF6aoN06ypU5eGkMZB2zV5ipB%2BeUzolMIU0sAVlRyZiZUYflg83M7xpi7zuZBMqv1GUKGSkmqGKBnlErXhSjNGJePiZvFwN8fYdOfbym6We8NIrQUVTFCWqYKDlE4bBpbmWhRxvYaIBx9C2by%2B45ZycEzlmFNuPLWOaSg4c8AyAOciXjWZrXxkV2EZ85qQJ2%2BrclUvH31Yfv4Uf4wJQvz4A3guQ9k33TsEqLjRytrMRAp9YQTTOXNOOBetVSZqCFAIIAyQ3RgFU5SjQCmPUWjJhywK1w3xbs7zlyAi0fVHoLBV8GdILBmR%2BnTO%2FsO7KwI%2FumKoMhoRQ9JX4bYa0NMGAThyQ9Vw1vi4wXZ9Se%2Ft4LGvSztc17wF%2F%2B816sqaEC57P4B%2F9R5n9mZmg1F9tzq%2FcDEhdYjEDVAgZxmertPYwG73Gw%3D%3D",
+            "domain": ".ups.com",
+            "path": "/",
+            "expires": 1663304400,
+            "size": 750,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "UZ_TI_dc_value",
+            "value": "0",
+            "domain": "www.ups.com",
+            "path": "/",
+            "expires": 1602014016,
+            "size": 15,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.ladbible.com
+2
+{
+    "cookies": [
+        {
+            "name": "__cfduid",
+            "value": "d36c0b22443efd1e794a9640b6c70e7ee1600286007",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1602878007.811115,
+            "size": 51,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "__asc",
+            "value": "c5fdac13174987aa2f4ce490fa3",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1600287808,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "__auc",
+            "value": "c5fdac13174987aa2f4ce490fa3",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1631908408,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "mc",
+            "value": "5f626d38-8e359-902ac-4f21c",
+            "domain": ".quantserve.com",
+            "path": "/",
+            "expires": 1634500408.694185,
+            "size": 28,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "permutive-session",
+            "value": "%7B%22session_id%22%3A%227f171dab-8a55-45d4-a327-af6f1e95b7ae%22%2C%22last_updated%22%3A%222020-09-16T19%3A53%3A29.921Z%22%7D",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1694894009,
+            "size": 142,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "permutive-id",
+            "value": "1bfb0fbc-0e6d-403b-821f-b9712795aa32",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1694894009,
+            "size": 48,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UID",
+            "value": "12018428a36a31a1e1d6ab71600286010",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1662494010.888305,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UIDR",
+            "value": "1600286010",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1662494010.888352,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.133843626.1600286011",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1663358010,
+            "size": 29,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.114755846.1600286011",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1600372410,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat",
+            "value": "1",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1600286070,
+            "size": 5,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "nativeAiInstallationId",
+            "value": "08b0d8e0-2f03-4882-bd3d-dcbde9c988ca",
+            "domain": "www.ladbible.com",
+            "path": "/",
+            "expires": 1663358011,
+            "size": 58,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "nativeAiInstallationId",
+            "value": "08b0d8e0-2f03-4882-bd3d-dcbde9c988ca",
+            "domain": ".native.ai",
+            "path": "/",
+            "expires": 1663358011.225418,
+            "size": 58,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_fbp",
+            "value": "fb.1.1600286011432.1403286187",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1608062012,
+            "size": 33,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "fr",
+            "value": "0ECWeJ0uZcFOOFxR0..BfYm07...1.0.BfYm07.",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1608062011.460952,
+            "size": 41,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "nativeAiEventIndex",
+            "value": "11",
+            "domain": "www.ladbible.com",
+            "path": "/",
+            "expires": 1600286612,
+            "size": 20,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "__qca",
+            "value": "P0-2029463566-1600286011079",
+            "domain": ".ladbible.com",
+            "path": "/",
+            "expires": 1634154812,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "test_cookie",
+            "value": "CheckForPermission",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1600286913.581308,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "nativeAiSession",
+            "value": "1600286016763|YmVkYTU0YmUtOGExNi00N2Y4LWFkNDAtYjczMDMyMDAwMWQxfA==",
+            "domain": "www.ladbible.com",
+            "path": "/",
+            "expires": 1600286616,
+            "size": 81,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.telewebion.com
+2
+{
+    "cookies": [
+        {
+            "name": "__asc",
+            "value": "933ad267174987aaea9f22687ea",
+            "domain": ".telewebion.com",
+            "path": "/",
+            "expires": 1600287811,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "__auc",
+            "value": "933ad267174987aaea9f22687ea",
+            "domain": ".telewebion.com",
+            "path": "/",
+            "expires": 1631908411,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ab69a0ff49858ec1a8f9273fab7ff8dd",
+            "value": "e281d380c4de6819968d4b7f6e90e679",
+            "domain": "static.televebion.net",
+            "path": "/",
+            "expires": -1,
+            "size": 64,
+            "httpOnly": true,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.ltn.com.tw
+2
+{
+    "cookies": [
+        {
+            "name": "u",
+            "value": "cWyCOoUB3OjpnUeghQg1",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1631822009.727602,
+            "size": 21,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ts",
+            "value": "1600286009",
+            "domain": ".creativecdn.com",
+            "path": "/",
+            "expires": 1631822009.727701,
+            "size": 12,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "__asc",
+            "value": "3d843e76174987aacb82fab6bc1",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1600287810,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "__auc",
+            "value": "3d843e76174987aacb82fab6bc1",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1631908410,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.3.1580831033.1600286011",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1663358010,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.3.310847815.1600286011",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1600372410,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.22309275.1600286011",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1608062010,
+            "size": 30,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "UID",
+            "value": "1BB18428a36a31a1e1d848e1600286010",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1662494012.351921,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UIDR",
+            "value": "1600286010",
+            "domain": ".scorecardresearch.com",
+            "path": "/",
+            "expires": 1662494012.351976,
+            "size": 14,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat",
+            "value": "1",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1600286071,
+            "size": 5,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_fbp",
+            "value": "fb.2.1600286012344.296839903",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1608062012,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "fr",
+            "value": "0sF2M8tdks73jf3wo..BfYm08...1.0.BfYm08.",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1608062012.385941,
+            "size": 41,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "__gads",
+            "value": "ID=6d4a8e80023c4419-22bfec766fc30069:T=1600286012:S=ALNI_MZ7I2jhp-kqpue9ZRWDSXLURYJo1g",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1663358012,
+            "size": 92,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "OAGEO",
+            "value": "2%7CUS%7CNA%7C%7CArlington%7C76013%7C32.7185%7C-97.1432%7C5%7CAmerica%2FChicago%7C623%7CTX%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C",
+            "domain": "asianmedia.com",
+            "path": "/",
+            "expires": -1,
+            "size": 140,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "OAID",
+            "value": "a838f0d69cdeb8ec07293918fda1b283",
+            "domain": "asianmedia.com",
+            "path": "/",
+            "expires": 1631822013.759973,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUniK7IxAAdmOGiN6C3pYHQFkU25UrQz3G5d1fypx41i7ySuyFQeE_xjn0RV",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1663358013.193445,
+            "size": 67,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "WeatherData",
+            "value": "TaipeiCity",
+            "domain": "www.ltn.com.tw",
+            "path": "/",
+            "expires": -1,
+            "size": 21,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "ltnSessionLast",
+            "value": "1600286014321",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1602086014,
+            "size": 27,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ltnSession",
+            "value": "1600286014321",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1600372414,
+            "size": 23,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ltnTagDate",
+            "value": "20200917",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1631822015.610406,
+            "size": 18,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ReaderInfo",
+            "value": "39h1000173882",
+            "domain": ".ltn.com.tw",
+            "path": "/",
+            "expires": 1631822015.61046,
+            "size": 23,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "VISITOR_INFO1_LIVE",
+            "value": "IbBcaMIsTkk",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1615838015.680802,
+            "size": 29,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "YSC",
+            "value": "rWcmPzgQiBY",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": -1,
+            "size": 14,
+            "httpOnly": true,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "GPS",
+            "value": "1",
+            "domain": ".youtube.com",
+            "path": "/",
+            "expires": 1600287816.213724,
+            "size": 4,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "oid",
+            "value": "4f0a2fc5-f856-11ea-9a61-0242ac120002",
+            "domain": "onead.onevision.com.tw",
+            "path": "/",
+            "expires": 1631822016.737738,
+            "size": 39,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "oid",
+            "value": "%257B%2522oid%2522%253A%25224f0a2fc5-f856-11ea-9a61-0242ac120002%2522%252C%2522ts%2522%253A1600286016%252C%2522v%2522%253A%25221.0%2522%257D",
+            "domain": "www.ltn.com.tw",
+            "path": "/",
+            "expires": 1631822017,
+            "size": 143,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "A3",
+            "value": "d=AQABBEFtYl8CECOXYFDNtl634qjDbaTv1HQFEgEBAQG-Y19sXwAAAAAA_SMAAA&S=AQAAAiTmCEBTO4LSmRu0dA-4aXo",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1631843617.541278,
+            "size": 96,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "B",
+            "value": "79l7fkhfm4ra1&b=3&s=lu",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1631843617.542582,
+            "size": 23,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "GUC",
+            "value": "AQEBAQFfY75fbEIdsgRY",
+            "domain": ".yahoo.com",
+            "path": "/",
+            "expires": 1631843617.542936,
+            "size": 23,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "TDID",
+            "value": "719a1a02-a760-4e01-888f-5853b04c6edc",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1631822017.929918,
+            "size": 40,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "TDCPM",
+            "value": "CAEYBSABKAIyCwi666bvnaHtOBAFOAE.",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1631822017.929999,
+            "size": 37,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "onevision_guid",
+            "value": "4fe1bd72-f856-11ea-94a0-0242ac120002",
+            "domain": "onead.onevision.com.tw",
+            "path": "/",
+            "expires": 1631822018.124085,
+            "size": 50,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.weather.com
+2
+{
+    "cookies": [
+        {
+            "name": "speedpin",
+            "value": "4G",
+            "domain": ".weather.com",
+            "path": "/",
+            "expires": 1600287815.902904,
+            "size": 10,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ci",
+            "value": "TWC-Connection-Speed=4G&TWC-Locale-Group=US&TWC-Device-Class=desktop&X-Origin-Hint=PROD-IBM-Daybreak-home&TWC-Network-Type=wifi&TWC-GeoIP-Country=US&TWC-GeoIP-Lat=32.6288&TWC-GeoIP-Long=-97.1183&Akamai-Connection-Speed=1000+&TWC-Privacy=usa",
+            "domain": ".weather.com",
+            "path": "/",
+            "expires": -1,
+            "size": 242,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "usprivacy",
+            "value": "1YNN",
+            "domain": ".weather.com",
+            "path": "/",
+            "expires": 1631822019,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.webex.com
+2
+{
+    "cookies": [
+        {
+            "name": "AKA_A2",
+            "value": "A",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600289609.080736,
+            "size": 7,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "at_check",
+            "value": "true",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 12,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "mbox",
+            "value": "session#84caa67c50854b5194a07d454090eccd#1600287871|PC#84caa67c50854b5194a07d454090eccd.35_0#1663530811",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1663530811,
+            "size": 107,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "mboxEdgeCluster",
+            "value": "35",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600287870,
+            "size": 17,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "user_locale",
+            "value": "US",
+            "domain": "www.webex.com",
+            "path": "/",
+            "expires": 1602878011,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "head_locale",
+            "value": "US",
+            "domain": "www.webex.com",
+            "path": "/",
+            "expires": 1602878011,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "user_lang",
+            "value": "en",
+            "domain": "www.webex.com",
+            "path": "/",
+            "expires": 1602878011,
+            "size": 11,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "user_currency",
+            "value": "USD",
+            "domain": "www.webex.com",
+            "path": "/",
+            "expires": 1602878011,
+            "size": 16,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "demdex",
+            "value": "35486729795008774842167075981924662114",
+            "domain": ".demdex.net",
+            "path": "/",
+            "expires": 1615838015.424186,
+            "size": 44,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCVS_5C0A123F5245AEEA0A490D45%40AdobeOrg",
+            "value": "1",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 42,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "RT",
+            "value": "\"z=1&dm=webex.com&si=mr1ffjmv7y&ss=kf5sz0pj&sl=0&tt=0\"",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600890811,
+            "size": 56,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_ecid",
+            "value": "MCMID%7C43188886113416838361496229808656052658",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1663358015.131543,
+            "size": 52,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "everest_g_v2",
+            "value": "g_surferid~X2JtPAAAAITBurto",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": 1663358013.3175,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "everest_session_v2",
+            "value": "X2JtPAAAAITBvbto",
+            "domain": ".everesttech.net",
+            "path": "/",
+            "expires": -1,
+            "size": 34,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "amplitude_id_2123f0c8058771907cf1e29b8e20adfewebex.com",
+            "value": "eyJkZXZpY2VJZCI6IjBlYzcyMmE1LTA5YTgtNGUxOC05NDBmLTY0NzQzNTU2NDUxZFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTYwMDI4NjAxMTc1MywibGFzdEV2ZW50VGltZSI6MTYwMDI4NjAxMjYwNiwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6Miwic2VxdWVuY2VOdW1iZXIiOjN9",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1915646012,
+            "size": 298,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "dpm",
+            "value": "35486729795008774842167075981924662114",
+            "domain": ".dpm.demdex.net",
+            "path": "/",
+            "expires": 1615838012.699143,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ppn2",
+            "value": "no%20value",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600287813,
+            "size": 14,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_nr",
+            "value": "1600286013433-New",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1602878013,
+            "size": 21,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_lv",
+            "value": "1600286013576",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1694894013,
+            "size": 17,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_lv_s",
+            "value": "First%20Visit",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600287813,
+            "size": 19,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_visit",
+            "value": "1",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1663358015.13159,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_vnum",
+            "value": "1601528400976%26vn%3D1",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1601528400,
+            "size": 28,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_invisit",
+            "value": "true",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600287813,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "siteEntry",
+            "value": "1",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 10,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_depth",
+            "value": "1",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600287814,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "v76",
+            "value": "%3A",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 6,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_cc",
+            "value": "true",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCV_5C0A123F5245AEEA0A490D45%40AdobeOrg",
+            "value": "1304406280%7CMCIDTS%7C18522%7CMCMID%7C43188886113416838361496229808656052658%7CMCAAMLH-1600890815%7C6%7CMCAAMB-1600890815%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1600285955.199%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.0.0",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1663358015,
+            "size": 283,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.535941086.1600286016",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1663358015,
+            "size": 29,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gid",
+            "value": "GA1.2.1044162094.1600286016",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600372415,
+            "size": 31,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_gat_gtag_UA_584538_1",
+            "value": "1",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600286075,
+            "size": 22,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "tfw_exp",
+            "value": "0",
+            "domain": ".twitter.com",
+            "path": "/",
+            "expires": 1600372415.840625,
+            "size": 8,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "OptanonConsent",
+            "value": "isIABGlobal=false&datestamp=Wed+Sep+16+2020+14%3A53%3A35+GMT-0500+(Central+Daylight+Time)&version=6.0.0&landingPath=https%3A%2F%2Fwww.webex.com%2F&groups=1%3A1%2C2%3A1%2C4%3A1%2C3%3A1&hosts=&legInt=",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1631822015,
+            "size": 212,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "sameSite": "Lax",
+            "priority": "Medium"
+        },
+        {
+            "name": "MUID",
+            "value": "0E661F652E5B6D4E344310222FE56CFF",
+            "domain": ".bing.com",
+            "path": "/",
+            "expires": 1633982017.909228,
+            "size": 36,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "MR",
+            "value": "0",
+            "domain": ".bat.bing.com",
+            "path": "/",
+            "expires": 1600890817.909292,
+            "size": 3,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "rmuid",
+            "value": "96bde5b5-77de-44ed-9fa9-ef8c3773f03c",
+            "domain": ".intljs.rmtag.com",
+            "path": "/",
+            "expires": 1631822016.90975,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "icts",
+            "value": "2020-09-16T19:53:36Z",
+            "domain": ".intljs.rmtag.com",
+            "path": "/",
+            "expires": 1631822016.909802,
+            "size": 24,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_gcl_au",
+            "value": "1.1.441002876.1600286017",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1608062017,
+            "size": 31,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "TDID",
+            "value": "08b7cadb-bf63-4709-adc2-ab18114c76f8",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1631822017.180507,
+            "size": 40,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "TDCPM",
+            "value": "CAESFwoIYXBwbmV4dXMSCwjqq5Ddze7hOBAFGAUoATILCOqj6emdoe04EAVCDyINCAESCQoFdGllcjIQAVoHN3poenNjbWABcghhcHBuZXh1cw..",
+            "domain": ".adsrvr.org",
+            "path": "/",
+            "expires": 1631822017.180575,
+            "size": 117,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_uetsid",
+            "value": "cb2cafc58ecc8e70e245fc5013335db3",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1600372417,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "_uetvid",
+            "value": "cc0c6c359b25679bbe3d22a482203343",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1601690017,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "rmuid",
+            "value": "e486977c-5e44-35af-7f31-322cf1374d2a",
+            "domain": ".linksynergy.com",
+            "path": "/",
+            "expires": 1631822017.920665,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "stc120006",
+            "value": "tsa:1600286017722.584585177.0164256.7627441163933808.5:20200916202337|env:1%7C20201017195337%7C20200916202337%7C1%7C1095239:20210916195337|uid:1600286017721.2089945948.924337.120006.805022647.9:20210916195337|srchist:1095239%3A1%3A20201017195337:20210916195337",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1631822377,
+            "size": 269,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "rmuid",
+            "value": "b5cc4045-fd66-6287-c9cb-cc9e86727123",
+            "domain": ".dc-storm.com",
+            "path": "/",
+            "expires": 1631822017.919905,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "s_ppvl",
+            "value": "wx%253Ahome%2C12%2C12%2C600%2C800%2C600%2C800%2C600%2C1%2CP",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 65,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_ppv",
+            "value": "wx%253Ahome%2C10%2C10%2C600%2C800%2C600%2C800%2C600%2C1%2CP",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": -1,
+            "size": 64,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "personalization_id",
+            "value": "\"v1_4MzmFUVzV+bb6TqCkRVEyw==\"",
+            "domain": ".twitter.com",
+            "path": "/",
+            "expires": 1663358018.287613,
+            "size": 47,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "utag_main",
+            "value": "v_id:0174987ac26b0019a331f6d3123600079001607100590$_sn:1$_ss:0$_st:1600287818598$ses_id:1600286016110%3Bexp-session$_pn:1%3Bexp-session$ctm_ss:true%3Bexp-session",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1631822018,
+            "size": 170,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "IDE",
+            "value": "AHWqTUlWQD44e0MHSi48oBAn3vr0lHynMg2pV1Y7JQ-TD1R3P2leuNcZxy36mD7p",
+            "domain": ".doubleclick.net",
+            "path": "/",
+            "expires": 1663358018.66088,
+            "size": 67,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "_fbp",
+            "value": "fb.1.1600286018734.752050958",
+            "domain": ".webex.com",
+            "path": "/",
+            "expires": 1608062019,
+            "size": 32,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "li_sugr",
+            "value": "996dd008-3852-478c-945e-e006e82bf3d9",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1608062019.361986,
+            "size": 43,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lang",
+            "value": "v=2&lang=en-us",
+            "domain": ".ads.linkedin.com",
+            "path": "/",
+            "expires": -1,
+            "size": 18,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lidc",
+            "value": "\"b=OGST01:g=2148:u=1:i=1600286018:t=1600372418:s=AQFHTPiucDpwB7pVLCpheUNOFv5CiNRH\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1600372418.946591,
+            "size": 86,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "UserMatchHistory",
+            "value": "AQI0v0L2ogPO7gAAAXSYes3hJNYA7yV6jdMamSvzd2t1q7Pq912aI9xPcq39iAGLrjMRRWPLTGo",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1602878019.056634,
+            "size": 91,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lang",
+            "value": "v=2&lang=en-us",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": -1,
+            "size": 18,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bcookie",
+            "value": "\"v=2&a8b4ff8d-f097-4661-842a-237c5525f9aa\"",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1663399872.223802,
+            "size": 49,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "bscookie",
+            "value": "\"v=1&202009161953391754084d-0f5c-4832-84ca-a35667f5cc58AQEGWRH4giN7YNaBjNxFcwta-NADHKtm\"",
+            "domain": ".www.linkedin.com",
+            "path": "/",
+            "expires": 1663399872.223854,
+            "size": 96,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "lissc",
+            "value": "1",
+            "domain": ".linkedin.com",
+            "path": "/",
+            "expires": 1631822020.223898,
+            "size": 6,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "fr",
+            "value": "0JYXHGu6AkneYLJmh..BfYm1C..F9i.1.0.BfYm1C.",
+            "domain": ".facebook.com",
+            "path": "/",
+            "expires": 1608062019.28939,
+            "size": 44,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ATN",
+            "value": "1.1600286019.8438459104093225883.AYJoNpuUMXg89d47",
+            "domain": ".atdmt.com",
+            "path": "/",
+            "expires": 1663358019.361381,
+            "size": 52,
+            "httpOnly": true,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "U",
+            "value": "3bfebc6660c6ebecca6c7c32740e7129",
+            "domain": ".adsymptotic.com",
+            "path": "/",
+            "expires": 1608062019.55183,
+            "size": 33,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.behance.net
+2
+{
+    "cookies": [
+        {
+            "name": "bcp",
+            "value": "e130d339-c0ce-495d-9d99-28290d65280b",
+            "domain": "www.behance.net",
+            "path": "/",
+            "expires": 1600372410,
+            "size": 39,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "relay",
+            "value": "6e6a5869-4f5c-4b3f-890b-b7d7125cb3cd",
+            "domain": "adobeid-na1.services.adobe.com",
+            "path": "/",
+            "expires": -1,
+            "size": 41,
+            "httpOnly": false,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "ftrset",
+            "value": "572",
+            "domain": "adobeid-na1.services.adobe.com",
+            "path": "/",
+            "expires": -1,
+            "size": 9,
+            "httpOnly": true,
+            "secure": true,
+            "session": true,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "fg",
+            "value": "UY4CSAGGFLO5QLMGAQBLZPQAK4======",
+            "domain": ".adobe.com",
+            "path": "/",
+            "expires": 1600372416.526748,
+            "size": 34,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "demdex",
+            "value": "75796720762123907491940999412204374141",
+            "domain": ".demdex.net",
+            "path": "/",
+            "expires": 1615838020.071651,
+            "size": 44,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "sameSite": "None",
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCVS_9E1005A551ED61CA0A490D45%40AdobeOrg",
+            "value": "1",
+            "domain": ".behance.net",
+            "path": "/",
+            "expires": -1,
+            "size": 42,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "gpv",
+            "value": "behance.net:galleries",
+            "domain": ".behance.net",
+            "path": "/",
+            "expires": 1600287819,
+            "size": 24,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "s_cc",
+            "value": "true",
+            "domain": ".behance.net",
+            "path": "/",
+            "expires": -1,
+            "size": 8,
+            "httpOnly": false,
+            "secure": false,
+            "session": true,
+            "priority": "Medium"
+        },
+        {
+            "name": "AMCV_9E1005A551ED61CA0A490D45%40AdobeOrg",
+            "value": "870038026%7CMCMID%7C75999810733915668031920567208569437427%7CMCAAMLH-1600890820%7C6%7CMCAAMB-1600890820%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1600293220s%7CNONE%7CMCAID%7CNONE%7CMCCIDH%7C1196132193%7CvVersion%7C5.0.0",
+            "domain": ".behance.net",
+            "path": "/",
+            "expires": 1663358020,
+            "size": 284,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
+http://www.amazon.es
+2
+{
+    "cookies": [
+        {
+            "name": "session-id",
+            "value": "257-5772386-3482656",
+            "domain": ".amazon.es",
+            "path": "/",
+            "expires": 1631822019.966801,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "i18n-prefs",
+            "value": "EUR",
+            "domain": ".amazon.es",
+            "path": "/",
+            "expires": 1631822019.074137,
+            "size": 13,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ubid-acbes",
+            "value": "260-1191252-4261402",
+            "domain": ".amazon.es",
+            "path": "/",
+            "expires": 1631822019.966686,
+            "size": 29,
+            "httpOnly": false,
+            "secure": true,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-token",
+            "value": "EzxjCeqUVot41LlHcKz18qUaOORaexeBwZdx/mKzVv6/gcTnwuZqewydMPesO+OVIf9kAK69dAQm6VWa5fHwKv4jDgpLaaS3wEWC/cbFjLbQz/zd4ZMQ8OZqkvdqxZ7PzuYT8ojmFD3xAZqQcHUeWmzvPhFW0RmMG80uG/mCGQseDtXcVdEiuhXy6jYweRAI",
+            "domain": ".amazon.es",
+            "path": "/",
+            "expires": 1631822019.074097,
+            "size": 205,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "csm-hit",
+            "value": "tb:s-A67Y2ZMX86J0B8G4SD0V|1600286016715&t:1600286019396&adb:adblk_no",
+            "domain": "www.amazon.es",
+            "path": "/",
+            "expires": 1630526019,
+            "size": 75,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "ad-privacy",
+            "value": "0",
+            "domain": ".amazon-adsystem.com",
+            "path": "/",
+            "expires": 1759348419.92173,
+            "size": 11,
+            "httpOnly": true,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        },
+        {
+            "name": "session-id-time",
+            "value": "2082758401l",
+            "domain": ".amazon.es",
+            "path": "/",
+            "expires": 1631822019.966758,
+            "size": 26,
+            "httpOnly": false,
+            "secure": false,
+            "session": false,
+            "priority": "Medium"
+        }
+    ]
+}
+3
+4
